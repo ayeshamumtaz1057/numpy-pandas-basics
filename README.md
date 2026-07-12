@@ -1,6 +1,7 @@
 # 📊 NumPy & Pandas Basics
 
-Learning NumPy and Pandas for Data Analysis and AI/ML
+Learning NumPy and Pandas for Data Analysis and AI/ML.
+
 
 ## 📁 Files
 
